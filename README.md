@@ -30,7 +30,7 @@ Applications powered by Hathor
 
 ### NFTs
 
-- [9block](https://9block.com.br/) - Brazilian NFT Marketplace
+- [9block](https://9block.com.br/) - Brazilian NFT Platform
 
 ## Explorers
 
