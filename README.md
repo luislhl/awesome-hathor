@@ -50,6 +50,7 @@ Applications powered by Hathor
 ### Infrastructure
 
 - [Helm Charts](https://github.com/HathorNetwork/helm-charts) - Helm Charts for easy deploy of our services in Kubernetes
+- [Dockerhub](https://hub.docker.com/u/hathornetwork) - Our Docker Hub page
 
 ### Games
 
@@ -61,3 +62,4 @@ Applications powered by Hathor
 - [Hathor Wallet Headless](https://github.com/HathorNetwork/hathor-wallet-headless) - Wallet that runs as a HTTP server, for integration purposes
 - [Hathor Desktop Wallet](https://github.com/HathorNetwork/hathor-wallet) - Official Desktop Wallet
 - [Hathor Wallet Mobile](https://github.com/HathorNetwork/hathor-wallet-mobile) - Official Mobile Wallet
+- [Hathor Pay](https://hathorpay.com/) - Wallet for Chrome browser
