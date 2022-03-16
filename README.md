@@ -32,6 +32,7 @@ Applications powered by Hathor
 
 - [9block](https://9block.com.br/) - [Community] Brazilian NFT Platform
 - [Hathor Market](https://www.hathormarketplace.com/) - [Community] NFT Marketplace
+- [NileSwap](https://nileswap.com/) - [Community] NFT Marketplace
 
 ## Explorers
 
