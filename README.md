@@ -20,9 +20,9 @@ A curated list of useful [Hathor Network](https://hathor.network/) related resou
 
 ## Documentation
 
-- [Official Resources](https://hathor.network/resources/) - A lot of useful resources available in the official website
-- [Hathor Core Docs](https://docs.hathor.network/) - Official Docs for the Hathor Core api
-- [Wallet Headless Docs](https://wallet-headless.docs.hathor.network/) - Official Docs for the Wallet Headless api
+- [Official Resources](https://hathor.network/resources/) - [Official] A lot of useful resources available in the official website
+- [Hathor Core Docs](https://docs.hathor.network/) - [Official] Docs for the Hathor Core api
+- [Wallet Headless Docs](https://wallet-headless.docs.hathor.network/) - [Official] Docs for the Wallet Headless api
 
 ## Applications
 
@@ -30,37 +30,38 @@ Applications powered by Hathor
 
 ### NFTs
 
-- [9block](https://9block.com.br/) - Brazilian NFT Platform
-- [Hathor Market](https://www.hathormarketplace.com/) - NFT Marketplace
+- [9block](https://9block.com.br/) - [Community] Brazilian NFT Platform
+- [Hathor Market](https://www.hathormarketplace.com/) - [Community] NFT Marketplace
 
 ## Explorers
 
-- [Hathor Explorer](https://explorer.hathor.network/) - Official block explorer by Hathor Labs
+- [Hathor Explorer](https://explorer.hathor.network/) - [Official] Block explorer by Hathor Labs
 
 ## Development Tools
 
 ### SDKs
 
-- [Wallet Lib](https://github.com/HathorNetwork/hathor-wallet-lib) - Javascript lib to create wallets
-- [Hathorlib](https://github.com/HathorNetwork/python-hathorlib) - Hathor lib in Python
+- [Wallet Lib](https://github.com/HathorNetwork/hathor-wallet-lib) - [Official] Javascript lib to create wallets
+- [Hathorlib](https://github.com/HathorNetwork/python-hathorlib) - [Official] Hathor lib in Python
+- [Hathor SDK](https://github.com/Tall1n/hathor-sdk) - [Community] Python sdk for interaction with the hathor blockchain
 
 ### Testing
 
-- [Hathor Community Faucet](https://www.gethathor.com/) - Get some free Hathor to try out the network
+- [Hathor Community Faucet](https://www.gethathor.com/) - [Community] Get some free Hathor to try out the network
 
 ### Infrastructure
 
-- [Helm Charts](https://github.com/HathorNetwork/helm-charts) - Helm Charts for easy deploy of our services in Kubernetes
-- [Dockerhub](https://hub.docker.com/u/hathornetwork) - Our Docker Hub page
+- [Helm Charts](https://github.com/HathorNetwork/helm-charts) - [Official] Helm Charts for easy deploy of our services in Kubernetes
+- [Dockerhub](https://hub.docker.com/u/hathornetwork) - [Official] Our Docker Hub page
 
 ### Games
 
-- [UnityHathor](https://github.com/mbnunes/UnityHathor) - Integrate Hathor into your Unity 3D games
-- [Hathor-UO](https://github.com/mbnunes/hathor-uo) - Integrate Hathor into your Ultima Online games
+- [UnityHathor](https://github.com/mbnunes/UnityHathor) - [Community] Integrate Hathor into your Unity 3D games
+- [Hathor-UO](https://github.com/mbnunes/hathor-uo) - [Community] Integrate Hathor into your Ultima Online games
 
 ## Wallets
 
-- [Hathor Wallet Headless](https://github.com/HathorNetwork/hathor-wallet-headless) - Wallet that runs as a HTTP server, for integration purposes
-- [Hathor Desktop Wallet](https://github.com/HathorNetwork/hathor-wallet) - Official Desktop Wallet
-- [Hathor Wallet Mobile](https://github.com/HathorNetwork/hathor-wallet-mobile) - Official Mobile Wallet
-- [Hathor Pay](https://hathorpay.com/) - Wallet for Chrome browser
+- [Hathor Wallet Headless](https://github.com/HathorNetwork/hathor-wallet-headless) - [Official] Wallet that runs as a HTTP server, for integration purposes
+- [Hathor Desktop Wallet](https://github.com/HathorNetwork/hathor-wallet) - [Official] Desktop Wallet
+- [Hathor Wallet Mobile](https://github.com/HathorNetwork/hathor-wallet-mobile) - [Official] Mobile Wallet
+- [Hathor Pay](https://hathorpay.com/) - [Community] Wallet for Chrome browser
