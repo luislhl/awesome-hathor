@@ -16,6 +16,8 @@ A curated list of useful [Hathor Network](https://hathor.network/) related resou
   - [SDKs](#sdks)
   - [Testing](#testing)
   - [Infrastructure](#infrastructure)
+  - [Games](#games)
+  - [Utils](#utils)
 - [Wallets](#wallets)
 
 ## Documentation
@@ -60,6 +62,10 @@ Applications powered by Hathor
 
 - [UnityHathor](https://github.com/mbnunes/UnityHathor) - [Community] Integrate Hathor into your Unity 3D games
 - [Hathor-UO](https://github.com/mbnunes/hathor-uo) - [Community] Integrate Hathor into your Ultima Online games
+
+### Utils
+
+- [Merkle Tree Tools](https://github.com/HathorNetwork/merkle-tree-tools) - [Official] Record the fingerprint of one or more files on the blockchain using merkle trees and verify that a file has not been modified through its merkle path.
 
 ## Wallets
 
