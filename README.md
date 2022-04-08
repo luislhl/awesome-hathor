@@ -37,6 +37,10 @@ Applications powered by Hathor
 - [NileSwap](https://nileswap.com/) - [Community] NFT Marketplace
 - [KickOff Music](https://kickoff.market/) - [Community] Music-related NFT Market
 
+### DeFi
+
+- [Hathor Swap](https://hathorswap.org/) - [Community] P2P swapping tool
+
 ## Explorers
 
 - [Hathor Explorer](https://explorer.hathor.network/) - [Official] Block explorer by Hathor Labs
