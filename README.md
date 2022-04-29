@@ -66,6 +66,7 @@ Applications powered by Hathor
 
 - [UnityHathor](https://github.com/mbnunes/UnityHathor) - [Community] Integrate Hathor into your Unity 3D games
 - [Hathor-UO](https://github.com/mbnunes/hathor-uo) - [Community] Integrate Hathor into your Ultima Online games
+- [godothathorplugin](https://github.com/mbnunes/godothathorplugin) - [Community] Integrate Hathor into Godot Engine games
 
 ### Utils
 
