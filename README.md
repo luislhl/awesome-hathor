@@ -44,6 +44,7 @@ Applications powered by Hathor
 ## Explorers
 
 - [Hathor Explorer](https://explorer.hathor.network/) - [Official] Block explorer by Hathor Labs
+- [Kelb](https://kelbcoin.com/) - [Community] An explorer that finds newest tokens and aggregates info about trading in Hathor Swap
 
 ## Development Tools
 
