@@ -30,16 +30,19 @@ A curated list of useful [Hathor Network](https://hathor.network/) related resou
 
 Applications powered by Hathor
 
+### Finance
+
+- [Tokenizadora](https://tokenizadora.com.br/) - [Community] Brazilian asset tokenization platform
+
 ### NFTs
 
 - [9block](https://9block.com.br/) - [Community] Brazilian NFT Platform
-- [Hathor Market](https://www.hathormarketplace.com/) - [Community] NFT Marketplace
 - [NileSwap](https://nileswap.com/) - [Community] NFT Marketplace
 - [KickOff Music](https://kickoff.market/) - [Community] Music-related NFT Market
 
 ### DeFi
 
-- [Hathor Swap](https://hathorswap.org/) - [Community] P2P swapping tool
+- [Kelb Swap](https://kelbswap.com/) - [Community] Swapping tool
 
 ## Explorers
 
@@ -78,4 +81,3 @@ Applications powered by Hathor
 - [Hathor Wallet Headless](https://github.com/HathorNetwork/hathor-wallet-headless) - [Official] Wallet that runs as a HTTP server, for integration purposes
 - [Hathor Desktop Wallet](https://github.com/HathorNetwork/hathor-wallet) - [Official] Desktop Wallet
 - [Hathor Wallet Mobile](https://github.com/HathorNetwork/hathor-wallet-mobile) - [Official] Mobile Wallet
-- [Hathor Pay](https://hathorpay.com/) - [Community] Wallet for Chrome browser
