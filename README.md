@@ -22,6 +22,7 @@ A curated list of useful [Hathor Network](https://hathor.network/) related resou
 
 ## Documentation
 
+- [Hathor Gitbook](https://hathor.gitbook.io/) - [Official] The official technical documentation of Hathor
 - [Official Resources](https://hathor.network/resources/) - [Official] A lot of useful resources available in the official website
 - [Hathor Core Docs](https://docs.hathor.network/) - [Official] Docs for the Hathor Core api
 - [Wallet Headless Docs](https://wallet-headless.docs.hathor.network/) - [Official] Docs for the Wallet Headless api
