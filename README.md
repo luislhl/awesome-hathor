@@ -19,13 +19,15 @@ A curated list of useful [Hathor Network](https://hathor.network/) related resou
   - [Games](#games)
   - [Utils](#utils)
 - [Wallets](#wallets)
+- [Exchanges](#exchanges)
 
 ## Documentation
 
-- [Hathor Gitbook](https://hathor.gitbook.io/) - [Official] The official technical documentation of Hathor
-- [Official Resources](https://hathor.network/resources/) - [Official] A lot of useful resources available in the official website
-- [Hathor Core Docs](https://docs.hathor.network/) - [Official] Docs for the Hathor Core api
+- [Whitepaper](https://s3.amazonaws.com/hathor-public-files/hathor-white-paper.pdf) - [Official] Hathor Network whitepaper
+- [Hathor Docs](https://docs.hathor.network/) - [Official] The official technical documentation of Hathor
+- [Hathor Core Docs](https://core-api.docs.hathor.network/) - [Official] Docs for the Hathor Core api
 - [Wallet Headless Docs](https://wallet-headless.docs.hathor.network/) - [Official] Docs for the Wallet Headless api
+- [RFCs](https://github.com/HathorNetwork/rfcs) - [Official] Github Repo where RFCs are stored
 
 ## Applications
 
@@ -39,7 +41,6 @@ Applications powered by Hathor
 
 - [9block](https://9block.com.br/) - [Community] Brazilian NFT Platform
 - [NileSwap](https://nileswap.com/) - [Community] NFT Marketplace
-- [KickOff Music](https://kickoff.market/) - [Community] Music-related NFT Market
 
 ### DeFi
 
@@ -64,7 +65,6 @@ Applications powered by Hathor
 
 ### Infrastructure
 
-- [Helm Charts](https://github.com/HathorNetwork/helm-charts) - [Official] Helm Charts for easy deploy of our services in Kubernetes
 - [Dockerhub](https://hub.docker.com/u/hathornetwork) - [Official] Our Docker Hub page
 
 ### Games
@@ -82,3 +82,17 @@ Applications powered by Hathor
 - [Hathor Wallet Headless](https://github.com/HathorNetwork/hathor-wallet-headless) - [Official] Wallet that runs as a HTTP server, for integration purposes
 - [Hathor Desktop Wallet](https://github.com/HathorNetwork/hathor-wallet) - [Official] Desktop Wallet
 - [Hathor Wallet Mobile](https://github.com/HathorNetwork/hathor-wallet-mobile) - [Official] Mobile Wallet
+
+## Exchanges
+
+Disclaimer: The list of crypto exchanges provided herein that trade Hathor (HTR) is for informational purposes only and does not imply any endorsement, affiliation, or partnership with these exchanges. I do not have any affiliation with the mentioned exchanges and cannot guarantee the accuracy or reliability of the information provided. Users are advised to conduct their own research and exercise caution when trading cryptocurrencies.
+
+- [Kucoin](https://www.kucoin.com/trade/HTR-USDT) - Kucoin exchange
+- [Bitrue](https://www.bitrue.com/trade/htr_usdt) - Bitrue exchange
+- [Foxbit](https://app.foxbit.com.br/terminal/htrbrl) - Foxbit exchange
+- [Gate.io](https://www.gate.io/trade/HTR_USDT) - Gate.io exchange
+- [Coinex](https://www.coinex.com/en/exchange/htr-usdt) - Coinex exchange
+- [AscendEX](https://ascendex.com/en/cashtrade-spottrading/usdt/htr) - AscendEX exchange
+- [Coinmetro](https://coinmetro.com/price/htr) - Coinmetro exchange
+- [Coinspot](https://www.coinspot.com.au/buy/htr) - Coinspot exchange
+- [RocketX](https://www.rocketx.exchange/) - RockerX exchange aggregator
