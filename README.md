@@ -58,6 +58,7 @@ Applications powered by Hathor
 - [Wallet Lib](https://github.com/HathorNetwork/hathor-wallet-lib) - [Official] Javascript lib to create wallets
 - [Hathorlib](https://github.com/HathorNetwork/python-hathorlib) - [Official] Hathor lib in Python
 - [Hathor SDK](https://github.com/Tall1n/hathor-sdk) - [Community] Python sdk for interaction with the hathor blockchain
+- [Hathor.Client](https://github.com/michielpost/Hathor.Client) - [Community] C# client for hathor-wallet-headless API
 
 ### Testing
 
