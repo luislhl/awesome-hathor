@@ -44,6 +44,7 @@ Applications powered by Hathor
 
 ### DeFi
 
+- [Dozer Finance](https://dozer.finance/) - [Community] DeFi platform with swap and liquidity pool
 - [Kelb Swap](https://kelbswap.com/) - [Community] Swapping tool
 
 ## Explorers
