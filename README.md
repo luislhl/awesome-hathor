@@ -74,7 +74,7 @@ Applications powered by Hathor
 
 ### Infrastructure
 
-- [Dockerhub](https://hub.docker.com/u/hathornetwork) - [Official] Our Docker Hub page
+- [Dockerhub](https://hub.docker.com/u/hathornetwork) - [Official] Official Docker Hub page
 
 ### Games
 
