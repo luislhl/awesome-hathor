@@ -10,7 +10,10 @@ A curated list of useful [Hathor Network](https://hathor.network/) related resou
 
 - [Documentation](#documentation)
 - [Applications](#applications)
+  - [Finance](#finance)
   - [NFTs](#nfts)
+  - [DeFi](#defi)
+  - [Others](#others)
 - [Explorers](#explorers)
 - [Development Tools](#development-tools)
   - [SDKs](#sdks)
@@ -46,6 +49,10 @@ Applications powered by Hathor
 
 - [Dozer Finance](https://dozer.finance/) - [Community] DeFi platform with swap and liquidity pool
 - [Kelb Swap](https://kelbswap.com/) - [Community] Swapping tool
+
+### Others
+
+- [Thoth.id](https://thoth.id/) - [Community] Namesystem for wallet addresses and digital identity management
 
 ## Explorers
 
