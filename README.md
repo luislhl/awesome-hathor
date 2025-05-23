@@ -34,7 +34,7 @@ A curated list of useful [Hathor Network](https://hathor.network/) related resou
 
 ## Applications
 
-Applications powered by Hathor
+Applications powered by Hathor or supporting Hathor in any way
 
 ### Finance
 
@@ -53,6 +53,7 @@ Applications powered by Hathor
 ### Others
 
 - [Thoth.id](https://thoth.id/) - [Community] Namesystem for wallet addresses and digital identity management
+- [RWA.io](https://www.rwa.io/) -[Community] Real-world asset tokenization hub that includes info about tokens from Hathor Network
 
 ## Explorers
 
@@ -105,3 +106,4 @@ Disclaimer: The list of crypto exchanges provided herein that trade Hathor (HTR)
 - [Coinmetro](https://coinmetro.com/price/htr) - Coinmetro exchange
 - [Coinspot](https://www.coinspot.com.au/buy/htr) - Coinspot exchange
 - [RocketX](https://www.rocketx.exchange/) - RockerX exchange aggregator
+- [Exolix](https://exolix.com/) - No-registration swap service
