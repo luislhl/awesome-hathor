@@ -71,7 +71,7 @@ Applications powered by Hathor or supporting Hathor in any way
 
 ### Testing
 
-- [Hathor Community Faucet](https://www.gethathor.com/) - [Community] Get some free Hathor to try out the network
+- [Hathor Testnet Faucet](https://faucet.testnet.hathor.network/) - [Official] Get some free Hathor in our Testnet to try out the network
 
 ### Infrastructure
 
