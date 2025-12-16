@@ -62,6 +62,10 @@ Applications powered by Hathor or supporting Hathor in any way
 
 ## Development Tools
 
+### Nano Contracts
+
+- [Hathor Playground](https://playground.hathor.dev) - Develop and test Nano Contracts online with an AI assistant
+
 ### SDKs
 
 - [Wallet Lib](https://github.com/HathorNetwork/hathor-wallet-lib) - [Official] Javascript lib to create wallets
