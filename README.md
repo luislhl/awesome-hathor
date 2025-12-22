@@ -26,11 +26,9 @@ A curated list of useful [Hathor Network](https://hathor.network/) related resou
 
 ## Documentation
 
-- [Whitepaper](https://s3.amazonaws.com/hathor-public-files/hathor-white-paper.pdf) - [Official] Hathor Network whitepaper
-- [Hathor Docs](https://docs.hathor.network/) - [Official] The official technical documentation of Hathor
-- [Hathor Core Docs](https://core-api.docs.hathor.network/) - [Official] Docs for the Hathor Core api
-- [Wallet Headless Docs](https://wallet-headless.docs.hathor.network/) - [Official] Docs for the Wallet Headless api
-- [RFCs](https://github.com/HathorNetwork/rfcs) - [Official] Github Repo where RFCs are stored
+- [Whitepaper](https://s3.amazonaws.com/hathor-public-files/hathor-white-paper.pdf) - Hathor Network whitepaper
+- [Hathor Docs](https://docs.hathor.network/) - The official technical documentation of Hathor
+- [RFCs](https://github.com/HathorNetwork/rfcs) - Github Repo where RFCs are stored
 
 ## Applications
 
@@ -38,27 +36,34 @@ Applications powered by Hathor or supporting Hathor in any way
 
 ### Finance
 
-- [Tokenizadora](https://tokenizadora.com.br/) - [Community] Brazilian asset tokenization platform
+- [Tokenizadora](https://tokenizadora.com.br/) - Brazilian asset tokenization platform
+- [x402.tax](https://x402.tax/) - Payment facilitator bridging web payments with Hathor transactions
+- [Pixley](https://pixley.app/) - Payment platform bridging cryptocurrency with retail
 
 ### NFTs
 
-- [9block](https://9block.com.br/) - [Community] Brazilian NFT Platform
-- [NileSwap](https://nileswap.com/) - [Community] NFT Marketplace
+- [9block](https://9block.com.br/) - Brazilian NFT Platform
+- [NileSwap](https://nileswap.com/) - NFT Marketplace
 
 ### DeFi
 
-- [Dozer Finance](https://dozer.finance/) - [Community] DeFi platform with swap and liquidity pool
-- [Kelb Swap](https://kelbswap.com/) - [Community] Swapping tool
+- [Dozer Finance](https://dozer.finance/) - DeFi platform with swap and liquidity pool
+- [Kelb Swap](https://kelbswap.com/) - Decentralized Exchange leveraging Hathor's Atomic Swap feature
+- [Hathor Bridge](https://hathorbridge.xyz/) - Cross-chain bridge between Hathor and EVM chains
+
+### Dapps
+
+- [Hathor Dice](https://hathordice.com/) - Decentralized dice game
 
 ### Others
 
-- [Thoth.id](https://thoth.id/) - [Community] Namesystem for wallet addresses and digital identity management
-- [RWA.io](https://www.rwa.io/) -[Community] Real-world asset tokenization hub that includes info about tokens from Hathor Network
+- [Thoth.id](https://thoth.id/) - Namesystem for wallet addresses and digital identity management
+- [RWA.io](https://www.rwa.io/) Real-world asset tokenization hub that includes info about tokens from Hathor Network
 
 ## Explorers
 
-- [Hathor Explorer](https://explorer.hathor.network/) - [Official] Block explorer by Hathor Labs
-- [Kelb](https://kelbcoin.com/) - [Community] An explorer that finds newest tokens and aggregates info about trading in Hathor Swap
+- [Hathor Explorer](https://explorer.hathor.network/) - Block explorer by Hathor Labs
+- [Kelb](https://kelbcoin.com/) - An explorer that finds newest tokens and aggregates info about trading in Hathor Swap
 
 ## Development Tools
 
@@ -68,34 +73,34 @@ Applications powered by Hathor or supporting Hathor in any way
 
 ### SDKs
 
-- [Wallet Lib](https://github.com/HathorNetwork/hathor-wallet-lib) - [Official] Javascript lib to create wallets
-- [Hathorlib](https://github.com/HathorNetwork/python-hathorlib) - [Official] Hathor lib in Python
-- [Hathor SDK](https://github.com/Tall1n/hathor-sdk) - [Community] Python sdk for interaction with the hathor blockchain
-- [Hathor.Client](https://github.com/michielpost/Hathor.Client) - [Community] C# client for hathor-wallet-headless API
+- [Wallet Lib](https://github.com/HathorNetwork/hathor-wallet-lib) - Javascript lib to create wallets
+- [Hathorlib](https://github.com/HathorNetwork/python-hathorlib) - Hathor lib in Python
+- [Hathor SDK](https://github.com/Tall1n/hathor-sdk) - Python sdk for interaction with the hathor blockchain
+- [Hathor.Client](https://github.com/michielpost/Hathor.Client) - C# client for hathor-wallet-headless API
 
 ### Testing
 
-- [Hathor Testnet Faucet](https://faucet.testnet.hathor.network/) - [Official] Get some free Hathor in our Testnet to try out the network
+- [Hathor Testnet Faucet](https://faucet.testnet.hathor.network/) - Get some free Hathor in our Testnet to try out the network
 
 ### Infrastructure
 
-- [Dockerhub](https://hub.docker.com/u/hathornetwork) - [Official] Official Docker Hub page
+- [Dockerhub](https://hub.docker.com/u/hathornetwork) - Official Docker Hub page
 
 ### Games
 
-- [UnityHathor](https://github.com/mbnunes/UnityHathor) - [Community] Integrate Hathor into your Unity 3D games
-- [Hathor-UO](https://github.com/mbnunes/hathor-uo) - [Community] Integrate Hathor into your Ultima Online games
-- [godothathorplugin](https://github.com/mbnunes/godothathorplugin) - [Community] Integrate Hathor into Godot Engine games
+- [UnityHathor](https://github.com/mbnunes/UnityHathor) - Integrate Hathor into your Unity 3D games
+- [Hathor-UO](https://github.com/mbnunes/hathor-uo) - Integrate Hathor into your Ultima Online games
+- [godothathorplugin](https://github.com/mbnunes/godothathorplugin) - Integrate Hathor into Godot Engine games
 
 ### Utils
 
-- [Merkle Tree Tools](https://github.com/HathorNetwork/merkle-tree-tools) - [Official] Record the fingerprint of one or more files on the blockchain using merkle trees and verify that a file has not been modified through its merkle path.
+- [Merkle Tree Tools](https://github.com/HathorNetwork/merkle-tree-tools) - Record the fingerprint of one or more files on the blockchain using merkle trees and verify that a file has not been modified through its merkle path.
 
 ## Wallets
 
-- [Hathor Wallet Headless](https://github.com/HathorNetwork/hathor-wallet-headless) - [Official] Wallet that runs as a HTTP server, for integration purposes
-- [Hathor Desktop Wallet](https://github.com/HathorNetwork/hathor-wallet) - [Official] Desktop Wallet
-- [Hathor Wallet Mobile](https://github.com/HathorNetwork/hathor-wallet-mobile) - [Official] Mobile Wallet
+- [Hathor Wallet Headless](https://github.com/HathorNetwork/hathor-wallet-headless) - Wallet that runs as a HTTP server, for integration purposes
+- [Hathor Desktop Wallet](https://github.com/HathorNetwork/hathor-wallet) - Desktop Wallet
+- [Hathor Wallet Mobile](https://github.com/HathorNetwork/hathor-wallet-mobile) - Mobile Wallet
 
 ## Exchanges
 
