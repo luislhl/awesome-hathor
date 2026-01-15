@@ -73,6 +73,7 @@ Applications powered by Hathor or supporting Hathor in any way
 
 ### SDKs
 
+- [Hathor Forge](https://github.com/HathorNetwork/hathor-forge) - A complete local blockchain development environment for Hathor Network. Think Ganache, but for Hathor.
 - [Wallet Lib](https://github.com/HathorNetwork/hathor-wallet-lib) - Javascript lib to create wallets
 - [Hathorlib](https://github.com/HathorNetwork/python-hathorlib) - Hathor lib in Python
 - [Hathor SDK](https://github.com/Tall1n/hathor-sdk) - Python sdk for interaction with the hathor blockchain
@@ -81,6 +82,10 @@ Applications powered by Hathor or supporting Hathor in any way
 ### Testing
 
 - [Hathor Testnet Faucet](https://faucet.testnet.hathor.network/) - Get some free Hathor in our Testnet to try out the network
+
+### AI/Vide Coding
+
+- [Hathor Skill](https://github.com/hathornetwork/hathor-skills) - A collection of Claude Code skills for Hathor development.
 
 ### Infrastructure
 
